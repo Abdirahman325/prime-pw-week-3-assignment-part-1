@@ -54,6 +54,8 @@ animalArray.push('penguin');
 console.log('Added an animal to end,', animalArray);
 
 // 4.a. TODO: Add a new food at the end of your array & log the array
+    favoritefoodsArray.push('fries');
+    console.log('Added a new food to the end,',favoritefoodsArray);
 
     foodArray.push('fries');
     console.log('Added fries to the end,', foodArray);
@@ -76,6 +78,8 @@ animalArray.unshift('walrus');
 console.log(`Added an animal to beginning: ${animalArray}`);
 
 // 4.c. TODO: Add a food at the beginning of the array & log the array
+    favoritefoodsArray.unshift('candy');
+    console.log('Added a new food to the beginning:' (favoritefoodsArray));
 
     foodArray.unshift('pasta');
     console.log('Added pasta to the beginning,' , foodArray)
